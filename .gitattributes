@@ -1,0 +1,21 @@
+# Automatically normalize line endings
+* text=auto
+
+# Source code files
+*.js text
+*.jsx text
+*.ts text
+*.tsx text
+*.html text
+*.css text
+*.json text
+*.xml text
+*.md text
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.mp4 binary
+*.pdf binary
