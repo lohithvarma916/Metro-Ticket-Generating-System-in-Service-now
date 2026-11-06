@@ -46,6 +46,7 @@ The technologies and tools used in this project are reflected in the source code
 
 This repository contains the project source files and resources. The demonstration video is hosted externally on Google Drive.
 
+https://drive.google.com/file/d/1UoEh0ZG23gW_3uSyKVczCXmM1S0wV5MF/view?usp=sharing
 ---
 
 **Metro E-Ticketing System** | Project Repository
